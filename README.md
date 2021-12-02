@@ -1,7 +1,7 @@
 # Word Search
 #### <b>Authors</b>
-👤 Karen Ngo @careuno
-👤 Ashley @tripleboba
+👤 Karen Ngo [@careuno](github.com/careuno)
+👤 Ashley [@tripleboba](github.com/tripleboba)
 ###### Pair Programming Assignment From LHL's Web Bootcamp
 ---
 This challenge comes with some initial (buggy!) code. We suggest approaching this problem with a TDD mindset, meaning "write tests, make the tests pass, repeat!".
